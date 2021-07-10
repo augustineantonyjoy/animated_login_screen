@@ -1,3 +1,4 @@
+import 'package:animated_login_screen/screens/auth/auth.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,8 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Material App',
-      home: Scaffold(
-        body: AuthScreen()),
+      home: AuthScreen(),
     ); 
   }
 }
