@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340182264105",
+    "project_id": "animatedloginscreen-c667c",
+    "storage_bucket": "animatedloginscreen-c667c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340182264105:android:1685a76b3f3a9814ef2f38",
+        "android_client_info": {
+          "package_name": "com.example.animated_login_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340182264105-ibf0e2la4mloona4o7eohtn2ivpbus8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJMODaV7kkjNXDcrYCSsnv45AFck0wIHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340182264105-ibf0e2la4mloona4o7eohtn2ivpbus8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+  
+}
